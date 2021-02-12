@@ -1,7 +1,9 @@
 #Linux CMD Glossary
 
+
 **chmod**-Command that is used to change the access permissions of a file system object. 
 chmod u=rw [FileName]
+
 
 **chown**-Command That allows you to change the user / group ownership of a file / dir.
 chown [FileName]
@@ -43,6 +45,48 @@ mount [DeviceName]
 unmount [DeviceName]
 
 **touch**-Command which is used to create, change and / or modify timestamps of a file. 
+
+find-Command used to find files / directories and perform actions on them. 
+find [.example] [example.txt]
+
+df-Command used to display the amount of disk space available on the system.
+df
+
+du
+
+more
+
+less
+
+head
+
+tail
+
+wc
+
+sort
+
+uniq
+
+wget
+
+curl
+
+rlwrap
+
+uname
+
+dialog
+
+
+
+
+
+
+
+
+
+
 
 ****Notes****
 1. Can add a char behind the cmd to add options.
