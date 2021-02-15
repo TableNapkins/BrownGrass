@@ -46,37 +46,41 @@ unmount [DeviceName]
 
 **touch**-Command which is used to create, change and / or modify timestamps of a file. 
 
-find-Command used to find files / directories and perform actions on them. 
+**find**-Command used to find files / directories and perform actions on them. 
 find [.example] [example.txt]
 
-df-Command used to display the amount of disk space available on the system.
+**df**-Command used to display the amount of disk space available on the system.
 df
 
-du
+**du**-(Disk Usage) Command used to estimate file space usage. 
+du /home/example/example
 
-more
+**more**-Command used to view text files in the command promt.
+more example.md 
 
-less
+**less**-Command similar to more but with more features like forward and back on pages. 
+less example.md
 
-head
+**head**-Command to print the N number of data of the given input. First 10 lines 
+head example.md
 
-tail
+**tail**-
 
-wc
+**wc**
 
-sort
+**sort**
 
-uniq
+**uniq**
 
-wget
+**wget**
 
-curl
+**curl**
 
-rlwrap
+**rlwrap**
 
-uname
+**uname**
 
-dialog
+**dialog**
 
 
 
