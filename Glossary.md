@@ -64,17 +64,23 @@ less example.md
 **head**-Command to print the N number of data of the given input. First 10 lines 
 head example.md
 
-**tail**-
+**tail**Command to print the N number of data of the given input. last 10 lines 
+tail example.md
 
-**wc**
+**wc**- Command to print the word count. 
+wc example / grep example.md | wc -l
 
-**sort**
+**sort**-Command to sort a file / arrang the data in a particular order
+sort example.md
 
-**uniq**
+**uniq**-Command to report or to delate repeated lines
+uniq example.md
 
-**wget**
+**wget**-Command to download files from the web 
+wget http://website.com/example
 
-**curl**
+**curl**-Command to transfer data to or from a server. 
+curl http://website.com/example
 
 **rlwrap**
 
