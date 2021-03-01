@@ -82,19 +82,15 @@ wget http://website.com/example
 **curl**-Command to transfer data to or from a server. 
 curl http://website.com/example
 
-**rlwrap**
+**rlwrap**-(readline wrapper) - Provides command history and editing of keyboard input for any other command. 
+rlwrap command 
 
-**uname**
+**uname**-Command to determine the processor architecture, the system hostname, and version of the kernel running on 
+the system.
+uname 
 
-**dialog**
-
-
-
-
-
-
-
-
+**dialog**-Command to that will present a variety of questions or display messages using dialog boxes from a shell script.
+dialog --print-maxsize
 
 
 
