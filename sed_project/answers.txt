@@ -1,0 +1,35 @@
+
+Question #1 
+
+cat american-english | sed -E "s/color/colour/g";s/honor/honour/g;s/behavior/behaviour/g;s/humor/humour/g" > new_dict
+
+Question #2 
+
+sed -E "s/FOOPS/if/g" prog.c | sed -E "s/BEEPBOOP/\/**/g" > MyFile.c
+
+Question #3
+
+sed -E "/<script>/,/<script>/d" faculty > faculty.index
+
+Question #4
+ 
+sed '/define/!d' limits.h | sed 's/#//g' | sed 's/ //g' | sed '/^define/!d' | sed 's/./& /6' |sed '
+
+s/define//g' > clean_limits.h
+
+Question #5
+
+sed -i.ORIG 's/gattaca/@@GREATMOVIE@@/g' dna.txt
+
+Question #6
+
+sed -f scriptfile file > decoded
+
+Question #7
+
+tac lyrics | sed -n '1,50p' > ending_lyrics
+
+Question #8
+
+./hwinfo.sh 
+
