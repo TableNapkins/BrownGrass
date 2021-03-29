@@ -1,0 +1,57 @@
+Most Powerful Pokemon = 780
+Average of Total = 435.103
+Average of Hp = 69.2588
+Average of Attack = 79.0012
+Average of Defense = 73.8425
+Average of Sp.Attack = 72.82
+Average of Speed = 68.2775
+Most powerful
+Poison 535 Crobat
+Grass 630 SceptileMega Sceptile
+Bug 600 Genesect
+Normal 720 Arceus
+Electric 610 AmpharosMega Ampharos
+Ground 770 GroudonPrimal Groudon
+Fairy 680 Xerneas
+Fighting 625 LucarioMega Lucario
+Rock 700 DiancieMega Diancie
+Ghost 680 GiratinaOrigin Forme
+Ice 580 Regice
+Psychic 780 MewtwoMega Mewtwo Y
+Dark 680 Yveltal
+Steel 700 MetagrossMega Metagross
+Dragon 780 RayquazaMega Rayquaza
+
+Average Statistics of Each Type
+Poison Avg Total 247 Avg Hp 32.5 Avg Def 45 Avg SpAtt 48.5 Avg SpDef 61.5 Avg Speed 22
+
+Grass Avg Total 265.5 Avg Hp 61.5 Avg Def 31 Avg SpAtt 48.5 Avg SpDef 40.5 Avg Speed 34
+
+Bug Avg Total 205.5 Avg Hp 40 Avg Def 25 Avg SpAtt 45 Avg SpDef 25 Avg Speed 44.5
+
+Normal Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Electric Avg Total 600 Avg Hp  Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Ground Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Fairy Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Fighting Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Rock Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Ghost Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Ice Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt  Avg SpDef 90 Avg Speed 70
+
+Psychic Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Dark Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Steel Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Dragon Avg Total 600 Avg Hp 80 Avg Def 120 Avg SpAtt 130 Avg SpDef 90 Avg Speed 70
+
+Highest Speed
+DeoxysSpeed Forme 180
