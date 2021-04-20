@@ -28,19 +28,21 @@ int main(int argc, char** argv){
 	size_t size;
 	char* current;
 	
-
-	size = load_file(argv[1],&contents);
+	// calls load_file, reads user input file 
+	size = load_file(argv[1],&contents); 
 	
 	
 	
 	
 	// Sort the file with the function you wrote.
 	
+	// calls sort passes value of contents and size
 	sort(&contents, size);
 	
 	// Write out the new file.
 	
-	size_t write = save_file("test.txt",current,size);
+	
+	size_t write = save_file("test",current,size);
 	
 	
 	
