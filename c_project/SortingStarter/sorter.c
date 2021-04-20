@@ -39,18 +39,18 @@ void sort(char** contents, int size){
 
 	for(i = 1; i<count; ++i){ // used to increment through the malloc
 	
-		char* current = arr[i];   // Storage
+		char* temp = arr[i];   // Storage
 		int j = i - 1;
 
 
 		// compares left value to the right if greater moves value to the right
-		while(j >= 0 &&  strcasecmp(arr[j], current) > 0){  
+		while(j >= 0 &&  strcasecmp(arr[j], temp) > 0){  
 		
 			arr[j + 1] = arr[j]; 
 			j--; // increments
 		}
 		
-		arr[j + 1] = current; // stores values in current 
+		arr[j + 1] = temp; // stores values in current 
 		
 		
 		

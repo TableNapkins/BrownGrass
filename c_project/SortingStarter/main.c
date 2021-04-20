@@ -23,7 +23,7 @@ int main(int argc, char** argv){
 
 	 // Read the original file.
 	
-
+	 
 	char* contents;
 	size_t size;
 	char* current;
