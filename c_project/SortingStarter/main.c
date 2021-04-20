@@ -27,6 +27,7 @@ int main(int argc, char** argv){
 	char* contents;
 	size_t size;
 	char* current;
+	//char ** arr;
 	
 	// calls load_file, reads user input file 
 	size = load_file(argv[1],&contents); 
@@ -42,7 +43,7 @@ int main(int argc, char** argv){
 	// Write out the new file.
 	
 	
-	size_t write = save_file("test",current,size);
+	size_t write = save_file("test.txt",contents,size);
 	
 	
 	
